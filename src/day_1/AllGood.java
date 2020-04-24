@@ -6,5 +6,7 @@ public class AllGood {
 
 
         //I hope everything is GOOD
+        
+        // this line added from GitHub
     }
 }
